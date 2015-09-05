@@ -1,0 +1,17 @@
+# Antenna-Arrays
+Produces radiation pattern for Broadside, Endfire, Binomial, and Dolph - Chebyshev antenna arrays
+
+Description	
+It is tool to produce radiation pattern for following antenna arrays: 
+1. Broadside 
+2. Endfire 
+3. Binomial and 
+4. Dolph - Chebyshev
+
+Run .m file and enter the no. of elements and distance to produce radiation pattern
+
+Optimization of codes has been done as a matter of practice.
+
+Suggestions are highly encouraged.
+
+MATLAB release	MATLAB 7.10 (R2010a)
